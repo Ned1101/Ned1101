@@ -9,5 +9,3 @@
 <div style="display: inline_block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <div>
-
-(https://github.com/Ned1101/Ned1101/blob/output/github-contribution-grid-snake.gif)
